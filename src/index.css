@@ -188,6 +188,13 @@ main {
   background: var(--clr-primary-5);
   color: var(--clr-white);
 }
+
+/* Add this CSS to your index.css file */
+.answer-btn:active {
+  background: var(--clr-primary-5);
+  color: var(--clr-white);
+}
+
 .correct-answers {
   font-size: 1rem;
   margin-bottom: 2rem;
